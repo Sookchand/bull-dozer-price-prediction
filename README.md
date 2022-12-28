@@ -18,7 +18,8 @@ Learning Material for Random Forest Regression Online:
 
 ## Demo
 
-https://github.com/Sookchand/bull-dozer-price-prediction/blob/main/Build.png
+![image](https://user-images.githubusercontent.com/34344439/209884660-dfb2848a-23dc-4c7e-a870-e4e4380dab75.png)
+
 ## Tech Stack
 
 **Client:** Python, Scikit-Learn, RandomForestRegressor
