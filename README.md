@@ -19,6 +19,8 @@ Learning Material for Random Forest Regression Online:
 ## Demo
 
 ![image](https://user-images.githubusercontent.com/34344439/209884660-dfb2848a-23dc-4c7e-a870-e4e4380dab75.png)
+![image](https://user-images.githubusercontent.com/34344439/209884694-57fc6f6c-b795-4ed5-a194-a2f6dcfce99d.png)
+
 
 ## Tech Stack
 
